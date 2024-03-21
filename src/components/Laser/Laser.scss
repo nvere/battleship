@@ -1,0 +1,11 @@
+
+
+@keyframes fireLaser {
+    from { top: 550px; }
+    to { top: 0px; }
+  }
+  
+  .laser-fired {
+    animation: fireLaser 1s linear forwards;
+  }
+  

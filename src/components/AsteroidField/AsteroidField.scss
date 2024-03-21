@@ -1,0 +1,23 @@
+
+
+.asteroid {
+    width: 5rem;
+    position: absolute;
+    top: 10vw;
+
+    &-field {
+        position: absolute;
+    }
+
+}
+
+.lose-text {
+    position: absolute;
+    top: 400;
+    left: 750;
+    color: red;
+    border: 1px solid red;
+    padding: 5px;
+    font-size: 4rem;
+
+}
